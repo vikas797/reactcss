@@ -99,7 +99,7 @@ const MyStyledComponent = () => {
                 </span>
               </li>
             );
-          })}
+          })} 
         </ul>
       </div>
     </div>
