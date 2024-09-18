@@ -90,7 +90,7 @@ const MyStyledComponent = () => {
                 style={{
                   ...liStyle,
                   ...(isOdd ? oddLiStyle : {}),
-                }}
+                } }
               >
                 <span style={nameStyle}>{name}</span>
                 <span style={ageStyle}>{age}</span>
